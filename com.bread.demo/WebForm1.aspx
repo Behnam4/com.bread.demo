@@ -11,6 +11,12 @@
         <div>
             <h1>Bread is good</h1>
             <p>we should have bread a lot. yes we should do that</p>
+             <h2>seasonal bread</h2>
+            <p>List of breads:</p>
+            <br />
+            <br />
+            <span>first group has came up with a solution for the bugs so there is no more bugs for the master branch!</span>
+            <p>The last thing to keep in mind is that this is v4.4</p>
         </div>
     </form>
 </body>
