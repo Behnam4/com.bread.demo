@@ -1,0 +1,6 @@
+C:\Oracle\jprojects\com.bread.demo\com.bread.demo\bin\com.bread.demo.dll.config
+C:\Oracle\jprojects\com.bread.demo\com.bread.demo\bin\com.bread.demo.dll
+C:\Oracle\jprojects\com.bread.demo\com.bread.demo\bin\com.bread.demo.pdb
+C:\Oracle\jprojects\com.bread.demo\com.bread.demo\obj\Debug\com.bread.demo.csprojResolveAssemblyReference.cache
+C:\Oracle\jprojects\com.bread.demo\com.bread.demo\obj\Debug\com.bread.demo.dll
+C:\Oracle\jprojects\com.bread.demo\com.bread.demo\obj\Debug\com.bread.demo.pdb
